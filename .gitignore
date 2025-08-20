@@ -2,3 +2,4 @@ venv/
 paper/
 cache/
 data/
+__pycache__/
